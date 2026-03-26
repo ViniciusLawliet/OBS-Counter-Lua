@@ -19,7 +19,7 @@ Simple counter script for OBS Studio with hotkeys, custom format, and crash-safe
 ---
 ### 2. Load the Script
 - Tools → Scripts → + → Add/Select the .lua file
-> **Note:** Check the folder where OBS stores scripts ("Add Scripts" path), then copy the `Counter.lua` file from this repository into that folder before adding it.
+> **Note:** Check the folder where OBS stores scripts ("Add Scripts" path), then copy the `counter.lua` file from this repository into that folder before adding it.
 ---
 ### 3. Configure Script
 
